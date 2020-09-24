@@ -1,0 +1,60 @@
+{
+  "emptybatchheader": {
+   "title":"check out these cool features below",
+   "description": "Classplus lite kaise use karey"
+  },
+  "emptybatchfooter":{
+    "title":"share the app with tutor",
+    "description":"Be the change",
+    "backgroungimg":"https://imgur.com/KPbWl2S",
+    "EmptyBatchCTAButton":{
+      "btntitle":"share",
+      "btnimg":"https://imgur.com/ipxJqcX",
+      "Deeplink":""
+    }
+  },
+  "EmptyBatchCardList":[
+    {
+      "title":"1 check out these cool features below",
+      "description": "Classplus lite kaise use karey",
+      "poster": "https://imgur.com/KPbWl2S",
+      "EmptyBatchPagerCard":[
+        {
+          "title": "1 Attend live classes",
+          "description1":"The classroom experience",
+          "description2":"Classroom jaisa mja",
+          "ctabtn" : 1,
+          "img":"https://imgur.com/BCNN9wX"
+        },
+        {
+          "title": "2 Attend live classes",
+          "description1":"The classroom experience",
+          "description2":"Classroom jaisa mja",
+          "ctabtn" : 0,
+          "img":"https://imgur.com/BCNN9wX"
+        }
+        ]
+    },
+       {
+      "title":"2 check out these cool features below",
+      "description": "Classplus lite kaise use karey",
+      "poster": "https://imgur.com/KPbWl2S",
+      "EmptyBatchPagerCard":[
+        {
+          "title": "1 Attend live classes",
+          "description1":"The classroom experience",
+          "description2":"Classroom jaisa mja",
+          "ctabtn" : 0,
+          "img":"https://imgur.com/BCNN9wX"
+        },
+        {
+          "title": "2 Attend live classes",
+          "description1":"The classroom experience",
+          "description2":"Classroom jaisa mja",
+          "ctabtn" : 1,
+          "img":"https://imgur.com/BCNN9wX"
+        }
+        ]
+    }
+    ]
+}
